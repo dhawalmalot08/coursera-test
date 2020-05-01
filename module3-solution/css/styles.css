@@ -1,0 +1,39 @@
+/* colors to be used 
+{
+	#3feee6;-
+			|	
+	#55bcc9;| Background colors
+		    |
+	97caef;_|
+
+	659dbd - body colour
+
+
+}*/
+
+
+
+body {
+	background: #fae596;
+	box-sizing: border-box;
+}
+.menu_item {
+	background-color: #b89f5d;
+	border: 1px solid black;
+	margin: 10px;
+
+}
+.item_name {
+	font-weight: bold;
+	font-size: 1.5em;
+}
+.item_description {
+	padding: 10px;
+
+}
+
+.back {
+	margin-left: 10px;
+}
+
+

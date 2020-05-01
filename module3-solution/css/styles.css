@@ -17,6 +17,10 @@ body {
 	background: #fae596;
 	box-sizing: border-box;
 }
+
+#myNavbar {
+	text-align: center;
+}
 .menu_item {
 	background-color: #b89f5d;
 	border: 1px solid black;

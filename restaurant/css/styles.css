@@ -13,7 +13,7 @@ body{
 }
 
 #logo-img{
-	background: url('https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/examples/Lecture30/after/images/restaurant-logo_large.png?raw=true') no-repeat;
+	background: url("../images/restaurant-logo_large.png") no-repeat;
 	width: 150px;
 	height: 150px;
 	margin: 10px 15px 10px 0;
@@ -151,13 +151,13 @@ body{
 }
 
 #menu-tile {
-	background: url('https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/examples/Lecture35/after/images/menu-tile.jpg?raw=true') no-repeat;
+	background: url('../images/menu-tile.jpg') no-repeat;
 	background-position: center;
 }
 
 
 #specials-tile {
-	background: url('https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/examples/Lecture35/after/images/specials-tile.jpg?raw=true') no-repeat;
+	background: url('../images/specials-tile.jpg') no-repeat;
 	background-position: center;
 
 }
@@ -266,7 +266,7 @@ h3.menu-item-title {
 
 @media (min-width: 1200px) {
 	.container .jumbotron {
-		background: url('https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/examples/Lecture34/after/images/jumbotron_1200.jpg?raw=true') no-repeat;
+		background: url('../images/jumbotron_1200.jpg') no-repeat;
 		height: 675px;
 		
 	}
@@ -275,14 +275,14 @@ h3.menu-item-title {
 @media (min-width: 992px) and (max-width: 1199px) {
 	/* Header */
 	#logo-img {
-		background: url('https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/examples/Lecture33/after/images/restaurant-logo_medium.png?raw=true') no-repeat;
+		background: url('../images/restaurant-logo_medium.png') no-repeat;
 		width: 100px;
 		height: 100px;
 		margin: 5px 5px 5px 0;
 	}
 
 	.container .jumbotron {
-		background: url('https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/examples/Lecture34/after/images/jumbotron_992.jpg?raw=true') no-repeat;
+		background: url('../images/jumbotron_992.jpg') no-repeat;
 		height: 558px;
 		
 	}
@@ -291,7 +291,7 @@ h3.menu-item-title {
 
 @media (min-width: 768px) and (max-width: 991px) {
 	.container .jumbotron {
-		background: url('https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/examples/Lecture34/after/images/jumbotron_768.jpg?raw=true') no-repeat;
+		background: url('../images/jumbotron_768.jpg') no-repeat;
 		height: 432px;
 		
 	}
@@ -419,4 +419,3 @@ h3.menu-item-title {
 	}
 
 }
-
